@@ -4,5 +4,6 @@ public class FirstF{
 	System.out.println("adsfdfsfasfdsadf");
 	System.out.println("Db for the win");
 	System.out.println("Db for the win 2");
+	System.out.println("from main");
 	}
 }
